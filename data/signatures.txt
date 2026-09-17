@@ -4,3 +4,6 @@ SHA-256 Signature: fe52888dd6e582db5d4185a634098433055a4bb79463af88720c60b88f523
 File: archaeogenetic_sample_log.xlsx
 SHA-256 Signature: d2b8f3e58c8662eb4b0bb1db51684f2dd45f3a4ed4cb84580af0e8d24fd0744d
 --------------------------------------------------
+File: secondary_variant_matrix.xlsx
+SHA-256 Signature: bc648ed82fb1bb3d0b729d0ba1cec7fd69994ed28f4d54061beee30590c8f7c7
+--------------------------------------------------

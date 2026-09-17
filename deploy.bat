@@ -24,6 +24,7 @@ if not exist dist mkdir dist
 certutil -hashfile data\aldob_variant_matrix.xlsx SHA256 | findstr /V "hash" > dist\checksums.txt
 certutil -hashfile data\archaeogenetic_sample_log.xlsx SHA256 | findstr /V "hash" >> dist\checksums.txt
 certutil -hashfile data\philological_keyword_index.xlsx SHA256 | findstr /V "hash" >> dist\checksums.txt
+certutil -hashfile data\secondary_variant_matrix.xlsx SHA256 | findstr /V "hash" >> dist\checksums.txt
 echo ✔ Checksums compiled inside dist\checksums.txt
 echo.
 
