@@ -126,6 +126,51 @@ Ingestion of the mandated fruits and honey triggers immediate, severe hypoglycem
 
 :::
 
+<div style={{
+  backgroundColor: '#FFF', 
+  padding: '1.5rem', 
+  borderRadius: '8px', 
+  border: '1px solid #2C4D75', 
+  boxShadow: '0 4px 6px rgba(0,0,0,0.05)', 
+  marginBottom: '2rem',
+  fontFamily: 'Segoe UI'
+}}>
+  <h4 style={{color: '#2C4D75', margin: '0 0 0.5rem 0', fontWeight: 'bold'}}>🔍 Dynamic Database Row Lookup Filter</h4>
+  <p style={{fontSize: '0.9rem', color: '#555', margin: '0 0 1rem 0'}}>
+    Type any marker, haplogroup, rsID, or keyword below to quickly isolate relevant rows across the manuscript data tables.
+  </p>
+  <input 
+    type="text" 
+    id="matrixSearchInput" 
+    placeholder="Type to filter matrix tables... (e.g., E1b1b, rs1800546, Oth)" 
+    onKeyUp={() => {
+      let input = document.getElementById('matrixSearchInput');
+      let filter = input.value.toLowerCase();
+      let tables = document.querySelectorAll('table');
+      
+      tables.forEach(table => {
+        let rows = table.getElementsByTagName('tr');
+        for (let i = 1; i < rows.length; i++) {
+          let rowText = rows[i].textContent.toLowerCase();
+          if (rowText.indexOf(filter) > -1) {
+            rows[i].style.display = "";
+          } else {
+            rows[i].style.display = "none";
+          }
+        }
+      });
+    }}
+    style={{
+      width: '100%', 
+      padding: '0.6rem 1rem', 
+      borderRadius: '4px', 
+      border: '1px solid #CCC', 
+      fontSize: '1rem',
+      outline: 'none'
+    }}
+  />
+</div>
+
 
 
 \#### 📊 Reference Data Matrix: ALDOB Variant Architecture (Chromosome 9)
