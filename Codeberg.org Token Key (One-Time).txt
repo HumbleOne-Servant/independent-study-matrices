@@ -1,3 +1,0 @@
-Codeberg.org 
-Terminal Deploy token Key
-8bc2d9f756ff8774b18f3963745f2d178e78534f
