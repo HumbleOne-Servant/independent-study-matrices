@@ -162,9 +162,17 @@ PILLAR IV: THE SMOKING TRAILS OF THE DISPLACED REMNANT The Non-Native Skeletal W
 
 | \*\*Raqefet\_Cave\_2\*\* | Raqefet Cave (Mt. Carmel) | Epipaleolithic (\~12,000 BC) | E1b1b1b2 (E-M34/E-M123) | K1a | Pristine Structure |
 
+| \*\*Sidon\_Bronze\_Age\_S1\*\* | Sidon Maritime Site (Lebanon) | Middle Bronze Age (\~1600 BC) | E1b1b1b2a (Canaanite Core) | H1bc | Pristine Structure |
+
+| \*\*Megiddo\_Bronze\_Age\_M3\*\* | Megiddo Stratum (Jezreel Valley) | Late Bronze Age (\~1450 BC) | J2a1a (Intrusive Mountain) | HV1a (Zagros Affinity) | HFI Risk Mutation Carrier |
+
+| \*\*Ashkelon\_Iron\_Age\_A1\*\* | Ashkelon Sea Wall (Philistia) | Early Iron Age (\~1150 BC) | R1b1a1a (Intrusive Steppe) | T2c1a (European Genom) | Hybrid Reduced Capacity |
+
 | \*\*Pharaoh\_Ramesses\_III\*\* | Valley of the Kings | 20th Dynasty (\~1155 BC) | E1b1a (100% Verified) | Unknown | Pristine Structure |
 
 | \*\*Klin\_Yar\_III\_3\*\* | Caucasus Mountain Barrier | Iron Age Exile Window (\~750 BC) | E1a2a1b1b (Outlier Trace) | J1 (Dual-Uniparental Unit) | Consensus Sequence Trace |
+
+| \*\*Punic\_Carthage\_C2\*\* | Carthage Necropolis (Tunisia) | Punic Expansion Era (\~300 BC) | E1b1b1b2 (Consolidated Base) | L2a1 (Afro-Asiatic Sun) | Pristine Structure |
 
 | \*\*Valle\_da\_Gafaria\_V1\*\* | Lagos Discard Pits (Portugal) | Medieval Inquisition Era (\~1493 AD) | E1b1a (Dominant Baseline) | L1b / L2b / L3d | Pristine Structure |
 
