@@ -20,6 +20,9 @@ These files contain advanced formatting layouts, cell alignments, and visual dat
 * 📥 **[Click Here to Download: Philological Keyword Index Matrix (Excel Document)](pathname:///data/philological_keyword_index.xlsx)**
   * *Description:* Outlines the foundational Semitic philology terms highlighted across the core study tracking benchmarks. Tracks keywords (Oth, Mopheth, Sheninah, Sod, Tsephuni) mapped directly alongside their original Hebrew scripts, primary scriptural coordinate anchors, and corresponding socio-political linguistic mechanisms.
 
+* 📥 **[Click Here to Download: Secondary Metabolic Variant Matrix (Excel Document)](pathname:///data/secondary_variant_matrix.xlsx)**
+  * *Description:* Tracks advanced secondary co-expression indicators across multi-chromosomal systems (LCT/MCM6 on chr2q21.3, SI on chr3q26.1, and HERC2/OCA2 on chr15q13.1). Maps ancestral wild-type phenotypes against intrusive northern high-altitude environmental mutations to support the absolute core thesis.
+
 
 ---
 
