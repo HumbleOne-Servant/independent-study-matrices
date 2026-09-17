@@ -171,6 +171,33 @@ Ingestion of the mandated fruits and honey triggers immediate, severe hypoglycem
   />
 </div>
 
+<div style={{
+  display: 'grid',
+  gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))',
+  gap: '1.2rem',
+  marginBottom: '2.5rem',
+  fontFamily: 'Segoe UI'
+}}>
+  <div style={{backgroundColor: '#EBF3FB', padding: '1.2rem', borderRadius: '6px', borderLeft: '5px solid #2C4D75', boxShadow: '0 2px 4px rgba(0,0,0,0.02)'}}>
+    <span style={{fontSize: '0.85rem', color: '#555', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.5px'}}>Total Paleogenomic Samples</span>
+    <h3 style={{margin: '0.3rem 0 0 0', fontSize: '2.2rem', color: '#2C4D75', fontWeight: 'bold'}}>9 Archetypes</h3>
+    <p style={{margin: '0.2rem 0 0 0', fontSize: '0.8rem', color: '#666'}}>Natufian Bedrock to Inquisition horizons.</p>
+  </div>
+
+  <div style={{backgroundColor: '#FCEFEE', padding: '1.2rem', borderRadius: '6px', borderLeft: '5px solid #A94442', boxShadow: '0 2px 4px rgba(0,0,0,0.02)'}}>
+    <span style={{fontSize: '0.85rem', color: '#A94442', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.5px'}}>Lethal Metabolic Selectors</span>
+    <h3 style={{margin: '0.3rem 0 0 0', fontSize: '2.2rem', color: '#A94442', fontWeight: 'bold'}}>3 Variants</h3>
+    <p style={{margin: '0.2rem 0 0 0', fontSize: '0.8rem', color: '#8A6D3B'}}>Pathogenic Chromosome 9 mutations detected.</p>
+  </div>
+
+  <div style={{backgroundColor: '#EBFBF0', padding: '1.2rem', borderRadius: '6px', borderLeft: '5px solid #3C763D', boxShadow: '0 2px 4px rgba(0,0,0,0.02)'}}>
+    <span style={{fontSize: '0.85rem', color: '#3C763D', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.5px'}}>Linguistic Tracking Signposts</span>
+    <h3 style={{margin: '0.3rem 0 0 0', fontSize: '2.2rem', color: '#3C763D', fontWeight: 'bold'}}>5 Core Terms</h3>
+    <p style={{margin: '0.2rem 0 0 0', fontSize: '0.8rem', color: '#666'}}>Oth, Mopheth, and Sheninah philology.</p>
+  </div>
+</div>
+
+
 
 
 \#### 📊 Reference Data Matrix: ALDOB Variant Architecture (Chromosome 9)
