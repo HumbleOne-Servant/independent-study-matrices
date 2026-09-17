@@ -1,48 +1,29 @@
-\---
+---
+sidebar_position: 1
+title: Academic Data Vault & Downloads
+---
 
-sidebar\_position: 1
+# Data Matrix Download Vault
 
-title: Archaeogenetic Logs \& Metabolic Matrices
+Welcome to the centralized cryptographic validation clearinghouse. Below, you can find active, live download pathways to the structured reference assets compiled for this independent study. 
 
-\---
+These files contain advanced formatting layouts, cell alignments, and visual data blocks engineered directly inside the binary structures.
 
+### 📊 Download Active Spreadsheet Materials
 
+* 📥 **[Click Here to Download: ALDOB Variant Matrix (Excel Document)](pathname:///data/aldob_variant_matrix.xlsx)**
+  * *Description:* Outlines the localized Levant core mapping metrics on Chromosome 9 (9q22.3). Tracks cytogenetic bands, rsID anchors, physical amino acid changes, and matching population frequency distributions across global databases.
+  
+* 📥 **[Click Here to Download: Archaeogenetic Sample Log (Excel Document)](pathname:///data/archaeogenetic_sample_log.xlsx)**
+  * *Description:* Compiles historical site profiles ranging from Epipaleolithic Natufian strata to the pharaonic 20th Dynasty and medieval Inquisition horizons. Isolates absolute sex-specific uniparental tracking paths (Y-DNA / mtDNA lineages).
 
-\# Cry for Israel Cryptographic Workspace
+---
 
+### 🔒 Cryptographic Receipt Ledger
 
+Every asset block above can be manually authenticated against the original compilation snapshot using native cryptographic signatures. If an external host modifies or corrupts a single cell, the verification check will fail.
 
-Welcome to the decentralized data repository. Below you can find the live reference matrices and archaeogenetic logs for this independent study.
-
-
-
-\### 📊 Download Source Datasets
-
-To verify or audit the structured data tables locally on your machine, download the verified Excel spreadsheets directly from the IPFS payload build:
-
-
-
-\* 📥 \*\*\[Download ALDOB Variant Matrix (Excel)](./data/aldob\_variant\_matrix.xlsx)\*\*
-
-\* 📥 \*\*\[Download Archaeogenetic Sample Log (Excel)](./data/archaeogenetic\_sample\_log.xlsx)\*\*
-
-
-
-\### 🔒 Cryptographic Ledger Verification
-
-The file integrity can be verified against the native SHA-256 signatures generated at build time. 
-
-
-
-```text
-
-Target: data/aldob\_variant\_matrix.xlsx
-
-Target: data/archaeogenetic\_sample\_log.xlsx
-
-Verification Command: sha256sum -c dist/checksums.txt
-
-```
-
-
-
+* **Target Output Path:** `data/aldob_variant_matrix.xlsx`
+* **Target Output Path:** `data/archaeogenetic_sample_log.xlsx`
+* **Local Inspection Manifest:** `dist/checksums.txt`
+* **Verification Command:** `sha256sum -c dist/checksums.txt`
