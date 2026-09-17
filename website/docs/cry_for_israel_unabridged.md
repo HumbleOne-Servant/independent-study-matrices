@@ -136,7 +136,13 @@ Ingestion of the mandated fruits and honey triggers immediate, severe hypoglycem
 
 | :--- | :---: | :---: | :---: | :--- | :--- | :--- |
 
-| ALDOB | chr9 | rs1800546 | chr9:101419730 | p.Ala149Pro (A149P) | Disrupts homotetramer assembly / severe HFI | Lethal Selector || ALDOB | chr9 | rs76992523 | chr9:101420104 | p.Gly189Val (G189Val) | Inactivates aldolase B catalytic site | Lethal Selector || ALDOB | chr9 | rs113883737 | chr9:101421033 | p.Arg227Trp (R227W) | Causes structural misfolding / unstable enzyme | Lethal Selector || ALDOB | chr9 | None | Consensus | Wild Type (Pristine) | Flawless fructose-to-ATP cell conversion | Fruit \& Honey Baseline |
+| \*\*ALDOB\*\* | chr9 | rs1800546 | chr9:101419730 | p.Ala149Pro (A149P) | Disrupts homotetramer assembly / severe HFI | Lethal Selector |
+
+| \*\*ALDOB\*\* | chr9 | rs76992523 | chr9:101420104 | p.Gly189Val (G189Val) | Inactivates aldolase B catalytic site | Lethal Selector |
+
+| \*\*ALDOB\*\* | chr9 | rs113883737 | chr9:101421033 | p.Arg227Trp (R227W) | Causes structural misfolding / unstable enzyme | Lethal Selector |
+
+| \*\*ALDOB\*\* | chr9 | None | Consensus Sequence | Wild Type (Pristine) | Flawless fructose-to-ATP cell conversion | Fruit \& Honey Baseline |
 
 
 
@@ -144,7 +150,25 @@ PILLAR IV: THE SMOKING TRAILS OF THE DISPLACED REMNANT The Non-Native Skeletal W
 
 
 
-🗺️ Paleogenomic Archetype Log: Migratory Tracking Snapshots Sample ID Archaeological Site Source Historical Era / Window Paternal Haplogroup (Y-DNA)Maternal Haplogroup (mtDNA)Autosomal ALDOB StatusRaqefet\_Cave\_1Raqefet Cave (Mt. Carmel)Epipaleolithic (\~12,000 BC)E1b1b1b2 (E-M215)N1aPristine StructureRaqefet\_Cave\_2Raqefet Cave (Mt. Carmel)Epipaleolithic (\~12,000 BC)E1b1b1b2 (E-M34)K1aPristine Structure Ramesses\_III Valley of the Kings (Egypt)20th Dynasty (\~1155 BC)E1b1a (100% Verified)Unknown Pristine StructureKlin\_Yar\_III\_3Caucasus Mountain Barrier Iron Age Window (\~750 BC)E1a2a1b1b (Outlier)J1 (Dual-Uniparental)Consensus TraceGafaria\_V1Lagos Discard Pits (Portugal)Medieval Inquisition (\~1493 AD)E1b1a (Dominant Core)L1b / L2b / L3dPristine Structure
+\#### 🗺️ Paleogenomic Archetype Log: Migratory Tracking Snapshots
+
+
+
+| Sample ID | Archaeological Site Source | Historical Era / Window | Paternal Haplogroup (Y-DNA) | Maternal Haplogroup (mtDNA) | Autosomal ALDOB Status |
+
+| :--- | :--- | :--- | :---: | :---: | :--- |
+
+| \*\*Raqefet\_Cave\_1\*\* | Raqefet Cave (Mt. Carmel) | Epipaleolithic (\~12,000 BC) | E1b1b1b2 (E-M215) | N1a | Pristine Structure |
+
+| \*\*Raqefet\_Cave\_2\*\* | Raqefet Cave (Mt. Carmel) | Epipaleolithic (\~12,000 BC) | E1b1b1b2 (E-M34/E-M123) | K1a | Pristine Structure |
+
+| \*\*Pharaoh\_Ramesses\_III\*\* | Valley of the Kings | 20th Dynasty (\~1155 BC) | E1b1a (100% Verified) | Unknown | Pristine Structure |
+
+| \*\*Klin\_Yar\_III\_3\*\* | Caucasus Mountain Barrier | Iron Age Exile Window (\~750 BC) | E1a2a1b1b (Outlier Trace) | J1 (Dual-Uniparental Unit) | Consensus Sequence Trace |
+
+| \*\*Valle\_da\_Gafaria\_V1\*\* | Lagos Discard Pits (Portugal) | Medieval Inquisition Era (\~1493 AD) | E1b1a (Dominant Baseline) | L1b / L2b / L3d | Pristine Structure |
+
+
 
 
 
